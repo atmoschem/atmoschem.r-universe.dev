@@ -1,0 +1,26 @@
+[
+    {
+        "package": "vein",
+        "url": "https://github.com/atmoschem/vein"
+    },
+    {
+        "package": "EmissV",
+        "url": "https://github.com/atmoschem/EmissV"
+    },
+    {
+        "package": "eixport",
+        "url": "https://github.com/atmoschem/eixport"
+    },
+    {
+        "package": "respeciate",
+        "url": "https://github.com/atmoschem/respeciate"
+    },
+    {
+        "package": "pega",
+        "url": "https://github.com/atmoschem/pega"
+    },
+    {
+        "package": "rtorf",
+        "url": "https://github.com/atmoschem/rorf"
+    }
+]
